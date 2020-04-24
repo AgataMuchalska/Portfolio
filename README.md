@@ -55,6 +55,6 @@ My name is Agata Muchalska. I am master of performed art and master of music art
      - [Test cases](https://drive.google.com/file/d/1Uq7kXvy8JQsqhCOky5Yaqh4KbcbLyH9x/view)
      - [Test cases - regression testing](https://drive.google.com/file/d/1R5v7_HHsPG_CWcFRJJl0OmJ2qRvBJSNE/view)
      - [Mind map](https://drive.google.com/file/d/1K8TamEa_IVchmcMzCX_bHoO0gVo22cym/view)
-     - [Automatic Postman tests](https://drive.google.com/file/d/15kAl0pI02FJYXOYu_KyIKN2XcvBK3Cmm/view)
+     - [Automated Postman tests](https://drive.google.com/file/d/15kAl0pI02FJYXOYu_KyIKN2XcvBK3Cmm/view)
       
 
