@@ -24,7 +24,7 @@ My name is Agata Muchalska. I am master of performed art and master of music art
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-poznan/)
 # Books
-  - R.Smiglin - Zawód tester
+  - R.Smilgin - Zawód tester
 # Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
@@ -32,22 +32,22 @@ My name is Agata Muchalska. I am master of performed art and master of music art
   - Gildia Testerów
 # Recommended blogs
   - testerzy.pl
-  - testuj.pl - Test, Bugs & Rocn'n'Roll
-  - remigjuszbednarczyk.pl
+  - testuj.pl - Test, Bugs & Rock'n'Roll
+  - remigiuszbednarczyk.pl
   - pwicherski.gitbook.io
   - GeekON
 # Webinars
   - GeekON - praktyczne ćwiczenie SQL
   - Szkoła testera - podstawy testowania
-# Examples of test cases
+# My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
-# Examples of reporting bugs
-  - [Reporting bugs from site jakdojade.pl](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
-# Exaples of diagrams and decision tables
-  - [Diagrams and decision tables for stoper, railway lights and rejestration](https://drive.google.com/file/d/1jDg-xa5rFRCqwA4Cl1hcMg7UcEmo09Ky/view)
-# Expamples of CSS Selectors and xPaths
+# My bug reports
+  - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
+# My exaples of diagrams and decision tables
+  - [Diagrams and decision tables for stopper, railway lights and rejestration](https://drive.google.com/file/d/1jDg-xa5rFRCqwA4Cl1hcMg7UcEmo09Ky/view)
+# My expamples of CSS Selectors and xPaths
   - [Finding uniqe CSS Selectors and xPaths on site ikea.pl](https://drive.google.com/file/d/1lmKfiTYA3y2gaFRNU5nNoFZy0evKpy3a/view)
-# Projcts examples
+# My projects
   - Group project - lider - testing site [allegro.pl](https://allegro.pl/)
      - [Tablica trello.com](https://trello.com/invite/b/fZE6cidI/8b637a0b4d4ad84fa9b7695805f8f5e5/allegropl)
   - Individual project - testing site [zara.com](https://www.zara.com/pl/)
