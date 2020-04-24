@@ -49,7 +49,7 @@ My name is Agata Muchalska. I am master of performed art and master of music art
   - [Finding uniqe CSS Selectors and xPaths on site ikea.pl](https://drive.google.com/file/d/1lmKfiTYA3y2gaFRNU5nNoFZy0evKpy3a/view)
 # My projects
   - Group project - lider - testing site [allegro.pl](https://allegro.pl/)
-     - [Tablica trello.com](https://trello.com/invite/b/fZE6cidI/8b637a0b4d4ad84fa9b7695805f8f5e5/allegropl)
+     - [Tablica trello.com](https://trello.com/b/fZE6cidI/allegropl)
   - Individual project - testing site [zara.com](https://www.zara.com/pl/)
      - [Report](https://drive.google.com/file/d/13Jg7xt0udNC_0Yk8a370EY12CVJGLHs3/view)
      - [Test cases](https://drive.google.com/file/d/1Uq7kXvy8JQsqhCOky5Yaqh4KbcbLyH9x/view)
