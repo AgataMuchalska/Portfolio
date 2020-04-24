@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-My name is Agata Muchalska. I am master of performed art and master of music art. I graduated from Music Academies in Bern, Switzerland and Poznań,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+My name is Agata Muchalska. I am master of performed art and master of music art speciality - violin. I graduated from Music Academies in Bern, Switzerland and Poznań,Poland. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
 # Tools
   - [Jing](https://www.techsmith.com/jing-tool.html) - Screen capture software
   - [Postman](https://www.postman.com/) - Testing tool for REST API
