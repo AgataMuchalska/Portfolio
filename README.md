@@ -39,6 +39,8 @@ My name is Agata Muchalska. I am master of performed art and master of music art
 # Webinars
   - GeekON - praktyczne ćwiczenie SQL
   - Szkoła testera - podstawy testowania
+# Articles about my work
+  - [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
 # My test case examples
   - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
 # My bug reports
