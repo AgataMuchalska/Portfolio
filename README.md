@@ -21,6 +21,8 @@ My name is Agata Muchalska. I am master of performed art and master of music art
   - Finding uniqe CSS Selectors and xPaths
   - Github
   - Creating diagrams and decision tables
+# Certificates
+  - ISTQB
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-poznan/)
 # Books
