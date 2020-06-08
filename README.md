@@ -22,9 +22,10 @@ My name is Agata Muchalska. I am master of performed art and master of music art
   - Github
   - Creating diagrams and decision tables
 # Certificates
-  - ISTQB
+  - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 73599
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-poznan/)
+  - Gfi Technology Academy
 # Books
   - R.Smilgin - Zawód tester
 # Groups on Facebook
