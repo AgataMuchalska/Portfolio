@@ -19,7 +19,6 @@ My name is Agata Muchalska. I am master of performed art and master of music art
   - Creating test cases
   - Reporting bugs
   - Finding uniqe CSS Selectors and xPaths
-  - Github
   - Creating diagrams and decision tables
 # Certificates
   - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 73599
