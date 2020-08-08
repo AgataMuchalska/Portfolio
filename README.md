@@ -11,6 +11,7 @@ My name is Agata Muchalska. I am master of performed art and master of music art
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+  - Github
 # Tech skills
   - SQL
   - DevTools
