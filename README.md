@@ -12,6 +12,7 @@ My name is Agata Muchalska. I am master of performed art and master of music art
   - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
   - Github
+  - BlazeMeter (https://www.blazemeter.com/) - Load testing platform
 # Tech skills
   - SQL
   - DevTools
